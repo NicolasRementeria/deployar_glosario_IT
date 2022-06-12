@@ -15,8 +15,11 @@
     - [FrontEnd (stack, puesto laboral)](#frontend-stack-puesto-laboral)
   - [G](#g)
     - [GCP (Google Cloud Platform)](#gcp-google-cloud-platform)
+    - [Git](#git)
+    - [Github](#github)
   - [H](#h)
   - [I](#i)
+    - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
     - [IBM Cloud](#ibm-cloud)
   - [J](#j)
   - [K](#k)
@@ -26,9 +29,12 @@
   - [O](#o)
     - [OCI (Oracle Cloud Infrastructure)](#oci-oracle-cloud-infrastructure)
   - [P](#p)
+    - [PaaS (Platform as a Service)](#paas-platform-as-a-service)
   - [Q](#q)
   - [R](#r)
+    - [Repositorio (repo)](#repositorio-repo)
   - [S](#s)
+    - [SaaS (Software as a Service)](#saas-software-as-a-service)
     - [Stack (tecnológico)](#stack-tecnológico)
   - [T](#t)
   - [U](#u)
@@ -74,7 +80,29 @@ TBD
 
 #### Cloud
 
-TBD
+Genericamente llamada Nube, se refiere una la plataforma de servicios que proveen al Desarrollador, SysAdmin o DevOps las herramientas para hostear sus aplicaciones.
+
+Aunque hay varios proveedores Cloud, en general hay muchas equivalencias en los tipos servicios que ofrecen. Normalmente con que uno sepa de una nube, sus conocimientos son facilmente transportables a otra nube.
+
+Tipos generales de servicios:
+  - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
+  - [PaaS (Platform as a Service)](#paas-platform-as-a-service)
+  - [SaaS (Software as a Service)](#saas-software-as-a-service)
+  - DNS
+  - Networking
+
+
+Ejemplos de proveedores Cloud: 
+  - [AWS (Amazon Cloud)](#aws-amazon-cloud)
+  - [Azure (Microsoft Azure)](#azure-microsoft-azure)
+  - [GCP (Google Cloud Platform)](#gcp-google-cloud-platform)
+  - [OCI (Oracle Cloud Infrastructure)](#oci-oracle-cloud-infrastructure)
+  - [IBM Cloud](#ibm-cloud)
+  - Digital Ocean
+
+> "The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies do not have to manage physical servers themselves or run software applications on their own machines. - Cloudflare
+
+Referencia: https://www.cloudflare.com/learning/cloud/what-is-the-cloud/
 
 ### D
 
@@ -89,7 +117,11 @@ Redes:
 
 #### DeployAR (verbo)
 
-TBD
+En español, el equivalente sería "Desplegar". Es el acto de llevar un codigo o aplicacion de un sitio local o repositorio a una version en linea.
+
+> Deploy es un término famoso entre los desarrolladores web. Puede significar muchas cosas, dependiendo del ambiente y de la tecnología usada. Sin embargo, los significados que más se refieren a la práctica y pueden resumir su función son: implantar, colocar en posición, habilitar para uso o, simplemente, publicar.
+
+Referencia: https://www.hostgator.mx/blog/deploy-en-programacion/
 
 ### E
 
@@ -107,9 +139,21 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 
 TBD
 
+#### Git
+
+TBD
+
+#### Github
+
+TBD
+
 ### H
 
 ### I
+
+#### IaaS (Infrastructure as a Service)
+
+TBD
 
 #### IBM Cloud
 
@@ -137,11 +181,23 @@ TBD
 
 ### P
 
+#### PaaS (Platform as a Service)
+
+TBD
+
 ### Q
 
 ### R
 
+#### Repositorio (repo)
+
+TBD
+
 ### S
+
+#### SaaS (Software as a Service)
+
+TBD
 
 #### Stack (tecnológico)
 
