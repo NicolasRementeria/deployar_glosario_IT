@@ -4,12 +4,15 @@
     - [AWS (Amazon Cloud)](#aws-amazon-cloud)
     - [Azure (Microsoft Azure)](#azure-microsoft-azure)
   - [B](#b)
+    - [BackEnd (stack, puesto laboral)](#backend-stack-puesto-laboral)
   - [C](#c)
     - [Cloud](#cloud)
   - [D](#d)
-    - [DeployAR](#deployar)
+    - [DeployAR (Comunidad)](#deployar-comunidad)
+    - [DeployAR (verbo)](#deployar-verbo)
   - [E](#e)
   - [F](#f)
+    - [FrontEnd (stack, puesto laboral)](#frontend-stack-puesto-laboral)
   - [G](#g)
     - [GCP (Google Cloud Platform)](#gcp-google-cloud-platform)
   - [H](#h)
@@ -26,6 +29,7 @@
   - [Q](#q)
   - [R](#r)
   - [S](#s)
+    - [Stack (tecnológico)](#stack-tecnológico)
   - [T](#t)
   - [U](#u)
   - [V](#v)
@@ -62,25 +66,46 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 
 ### B
 
+#### BackEnd (stack, puesto laboral)
+
+TBD
+
 ### C
 
 #### Cloud
 
+TBD
+
 ### D
 
-#### DeployAR
+#### DeployAR (Comunidad)
 
 La mejor plataforma argentina orientada al entusiasta en IT, cuya mision es generar un espacio de ayuda a la insersión laboral en Sistemas.
+
+Redes:
+- Discord: https://discord.com/invite/wCj64fb
+- Telegram: https://t.me/joinchat/K923HlbTWN1hQGcJzhjeSg
+- LinkedIn: https://www.linkedin.com/in/comunidad-deployar/
+
+#### DeployAR (verbo)
+
+TBD
 
 ### E
 
 ### F
+
+#### FrontEnd (stack, puesto laboral)
+
+TBD
 
 ### G
 
 #### GCP (Google Cloud Platform)
 
 Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
+
+TBD
 
 ### H
 
@@ -89,6 +114,8 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 #### IBM Cloud
 
 Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
+
+TBD
 
 ### J
 
@@ -106,6 +133,8 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 
 Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 
+TBD
+
 ### P
 
 ### Q
@@ -113,6 +142,10 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 ### R
 
 ### S
+
+#### Stack (tecnológico)
+
+TBD
 
 ### T
 
