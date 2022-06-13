@@ -5,9 +5,14 @@
     - [Azure (Microsoft Azure)](#azure-microsoft-azure)
   - [B](#b)
     - [BackEnd (stack, puesto laboral)](#backend-stack-puesto-laboral)
+    - [Big Data](#big-data)
   - [C](#c)
+    - [Ciencias de Datos (disciplina)](#ciencias-de-datos-disciplina)
     - [Cloud](#cloud)
   - [D](#d)
+    - [Data Lake](#data-lake)
+    - [Data Science](#data-science)
+    - [Data Warehouse](#data-warehouse)
     - [DeployAR (Comunidad)](#deployar-comunidad)
     - [DeployAR (verbo)](#deployar-verbo)
   - [E](#e)
@@ -18,9 +23,12 @@
     - [Git](#git)
     - [Github](#github)
   - [H](#h)
+    - [Hadoop](#hadoop)
   - [I](#i)
     - [IaaS (Infrastructure as a Service)](#iaas-infrastructure-as-a-service)
     - [IBM Cloud](#ibm-cloud)
+    - [Internet de las Cosas](#internet-de-las-cosas)
+    - [Internet of Things (IoT)](#internet-of-things-iot)
   - [J](#j)
   - [K](#k)
   - [L](#l)
@@ -76,7 +84,15 @@ Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
 
 TBD
 
+#### Big Data
+
+TBD
+
 ### C
+
+#### Ciencias de Datos (disciplina)
+
+Ver [Data Science](#data-science)
 
 #### Cloud
 
@@ -105,6 +121,18 @@ Ejemplos de proveedores Cloud:
 Referencia: https://www.cloudflare.com/learning/cloud/what-is-the-cloud/
 
 ### D
+
+#### Data Lake
+
+TBD
+
+#### Data Science
+
+TBD
+
+#### Data Warehouse
+
+TBD
 
 #### DeployAR (Comunidad)
 
@@ -149,6 +177,10 @@ TBD
 
 ### H
 
+#### Hadoop
+
+TBD
+
 ### I
 
 #### IaaS (Infrastructure as a Service)
@@ -158,6 +190,14 @@ TBD
 #### IBM Cloud
 
 Ver [Cloud](#cloud) para conceptos generales de que es una Cloud.
+
+TBD
+
+#### Internet de las Cosas
+
+Ver [Internet of Things (IoT)](#internet-of-things-iot)
+
+#### Internet of Things (IoT)
 
 TBD
 
